@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<string>
 #include<cctype>//使用 tolower大写转换为小写字母
 #include<sstream>
@@ -55,4 +55,4 @@ int main()
     //如何组织一个多个文件的项目
     return 0;
 }
-*/
+
